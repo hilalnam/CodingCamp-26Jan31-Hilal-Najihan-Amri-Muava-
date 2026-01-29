@@ -23,11 +23,10 @@ Proyek web sederhana yang dibuat sebagai bagian dari program CodingCamp
 - **CSS** - Styling dan layout
 - **JavaScript** - Interaktivitas dan fungsi dinamis
 
-## 👥 Tim Pengembang
-- Hilal Najihan Amri Muava
-
 ## 📅 Tanggal Pembuatan
 Januari 26-31, 2026
 
+## Link Web
+https://hilalnam.github.io/CodingCamp-26Jan31-Hilal-Najihan-Amri-Muava-/
 ---
 
