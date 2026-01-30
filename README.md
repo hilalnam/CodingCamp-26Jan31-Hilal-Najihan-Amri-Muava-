@@ -27,6 +27,6 @@ Proyek web sederhana yang dibuat sebagai bagian dari program CodingCamp
 Januari 26-31, 2026
 
 ## Link Web
-https://hilalnam.github.io/CodingCamp-26Jan31-Hilal-Najihan-Amri-Muava-/
+[]https://hilalnam.github.io/web-percobaan/
 ---
 
